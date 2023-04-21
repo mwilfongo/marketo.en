@@ -13,7 +13,7 @@ Admins can override Marketo's determined priority for trigger campaigns to set p
 
 >[!CAUTION]
 >
->It is strongly advised that you use this feature on a limited set of business critical campaigns (25 is the recommended maximum). Using the feature loosely on a large set can adversely affect overall campaign execution.
+>It is strongly advised that you use this feature to upgrade campaign priority (e.g. change priority from medium to high) on a limited set of business critical campaigns (25 is the recommended maximum). Using the feature loosely on a large set can adversely affect overall campaign execution.
 
 ## Grant Priority Override Access {#grant-priority-override-access}
 
